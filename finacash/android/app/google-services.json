@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794135505370",
+    "firebase_url": "https://seg-parcial.firebaseio.com",
+    "project_id": "seg-parcial",
+    "storage_bucket": "seg-parcial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794135505370:android:50d8d05a8deb3489baf8e3",
+        "android_client_info": {
+          "package_name": "com.dantas.thiago.finacash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794135505370-ed7om76ad85om9od4a4rr659flfinmmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2v1c7AdUoJFqVKWsXVxRbMVRINNr2fMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794135505370-ed7om76ad85om9od4a4rr659flfinmmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
